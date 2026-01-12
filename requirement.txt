@@ -1,0 +1,6 @@
+websocket-client
+streamlit
+alpaca-py
+yfinance
+pandas
+numpy

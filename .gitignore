@@ -1,0 +1,12 @@
+config.py
+venv/
+env/
+.env
+note.txt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
